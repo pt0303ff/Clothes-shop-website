@@ -1,0 +1,42 @@
+body{
+    background-color: #deb887;
+    margin: 0px;
+   
+}
+ul{
+    list-style: none;
+    padding: 0;
+    background-color: brown;
+    overflow: hidden;
+}
+li{
+    float: left;
+    /* display: inline-block; */
+    border-right: 1px solid black;
+}
+/* id就用# class就用. */
+#left{
+    border-left: 1px solid black;
+}
+
+li a{
+    display: block;
+    padding: 20px;
+    text-decoration: none;
+    font-size: 30px;color: black;
+    
+    
+}
+li a:hover{
+    background-color: orangered;
+    color: antiquewhite;
+}
+form{
+    font-size: 30px;
+    color: black;
+}
+.comment{
+    width: 500px;
+    height: 100px;
+}
+
