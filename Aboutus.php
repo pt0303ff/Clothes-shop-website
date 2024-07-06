@@ -33,11 +33,11 @@
         <hr>
 
         <h1>網站地圖</h1>
-        <img src="sitemap.png" style="border-radius: 15px;">
+        <img src="img/sitemap.png" style="border-radius: 15px;">
         <hr>
 
         <h1>程式運作流程</h1>
-        <img src="codemap.png" style="border-radius: 15px;">
+        <img src="img/codemap.png" style="border-radius: 15px;">
         <hr>
         
         <h1>頁面介紹</h1>
