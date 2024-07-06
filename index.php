@@ -58,8 +58,8 @@
     <?php include("index_header.php"); ?>
 
     <div style="text-align: center;">
-      <a href="product_category.php?a=man"><img src="betterlookman.jpg" width="400px"height="400px"></a>
-      <a href="product_category.php?a=woman"><img src="betterlookgirl.jpg" width="400px" height="400px"></a>
+      <a href="product_category.php?a=man"><img src="img/betterlookman.jpg" width="400px"height="400px"></a>
+      <a href="product_category.php?a=woman"><img src="img/betterlookgirl.jpg" width="400px" height="400px"></a>
     </div>
 </body>
 </html>
