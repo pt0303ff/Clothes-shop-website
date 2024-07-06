@@ -52,7 +52,7 @@ $Product_List['woman'] = array(
                     
                         <div style=\"display: inline-block; text-align: center;\">
                             <a href=\"product.php?id=".$Product_List[$Category][$temp[$i]][$j]."\">
-                                <img src=\"img/".$Item[$Product_List[$Category][$temp[$i]][$j]][3]."\" width=\"200px\"><br>
+                                <img src=\"".$Item[$Product_List[$Category][$temp[$i]][$j]][3]."\" width=\"200px\"><br>
                             </a>
                             <span style=\"font-size:30px; \">$".$Item[$Product_List[$Category][$temp[$i]][$j]][1]."</span>
                         </div>";
